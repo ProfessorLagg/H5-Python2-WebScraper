@@ -6,3 +6,5 @@ requests
 matplotlib
 seaborn
 openpyxl
+fastparquet
+duckdb
